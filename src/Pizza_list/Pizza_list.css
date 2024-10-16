@@ -1,0 +1,14 @@
+.Pizzas_list{
+    display: flex;
+    
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center ;
+    
+    
+}
+.pizza_price_soldout{
+    font-style: italic;
+    color: grey;
+}

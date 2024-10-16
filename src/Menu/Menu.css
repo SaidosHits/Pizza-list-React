@@ -1,0 +1,47 @@
+.Menu_container{
+    text-align: center;
+    padding: 20px;
+  
+}
+
+.menu-title {
+    text-align: center; /* Center the text */
+    position: relative; /* So we can position the lines */
+    display: inline-block;
+    padding: 10px;
+    
+  }
+  
+  .menu-title span {
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold; /* Make the text bold */
+    letter-spacing: 5px;
+  }
+  
+  .menu-title::before,
+  .menu-title::after {
+    content: ''; /* Empty content for the lines */
+    display: block;
+    width: 200px; /* Line width */
+    height: 2px; /* Line height */
+    background-color: black; /* Line color */
+    position: absolute;
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%);
+  }
+  
+  .menu-title::before {
+    top: -10px; /* Position above the text */
+  }
+  
+  .menu-title::after {
+    bottom: -10px; /* Position below the text */
+  }
+  .Menu_dis{
+    max-width: 800px; /* Maximum width for the text block */
+  margin: 0 auto;   /* Center the text block horizontally */
+  text-align: center; 
+  font-size: 18px;
+  padding: 30px; 
+  }
+  

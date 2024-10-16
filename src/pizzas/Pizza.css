@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+.Pizza_frame{
+    display: flex;
+    padding: 40px;
+    align-items: center;
+    gap: 20px;
+    width: 400px;
+    
+}
+img{
+    width: 120px;
+    border-radius: 10px;
+
+      
+      
+}
+.pizza_dis{
+    margin-top: 8px;
+  margin-bottom: 15px;
+  color: gray;
+  font-style: italic;
+}
+.Pizza_image_soldout img{
+    filter: grayscale(100%);
+}

@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 200px;
+}
+.order_button button{
+    width: 120px;
+    height: 40px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(255, 193, 78);
+}
+.order_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.open_time{
+    font-style: italic;
+    padding-top: 30px;
+}
+.order_button button:hover{
+    background-color: rgb(252, 202, 110);
+}
