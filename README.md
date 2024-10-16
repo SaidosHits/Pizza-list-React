@@ -2,6 +2,7 @@
 
 ![Project Screenshot](./assets/screenshot.png)
 
+> Replace `./assets/screenshot.png` with the actual path to your image file.
 
 This is a React project that displays a list of pizzas with their details. It showcases key features of React, such as components, props, and state management, allowing users to view pizzas and their descriptions.
 
@@ -17,10 +18,13 @@ This is a React project that displays a list of pizzas with their details. It sh
    ```bash
    git clone https://github.com/SaidosHits/Pizza-list-React.git
 2. Navigate to the project folder:
+   ```bash
    cd Pizza-list-React
 3. Install the required dependencies:
+   ```bash
    npm install
 4. Running the Application
+   ```bash
    npm start
-   
+
 Open http://localhost:3000 in your browser to view the app.
