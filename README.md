@@ -1,6 +1,6 @@
 # Pizza List - React
 
-![image description](./assets/screencapture.png)
+![image description](./assests/screencapture.png)
 
 
 
