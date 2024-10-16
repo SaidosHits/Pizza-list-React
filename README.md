@@ -1,6 +1,6 @@
 # Pizza List - React
 
-![Project Screenshot](./assets/screenshot.png)
+![image description](./assets/screenshot.png)
 
 > Replace `./assets/screenshot.png` with the actual path to your image file.
 
