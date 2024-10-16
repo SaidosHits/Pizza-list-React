@@ -2,7 +2,6 @@
 
 ![Project Screenshot](./assets/screenshot.png)
 
-> Replace `./assets/screenshot.png` with the actual path to your image file.
 
 This is a React project that displays a list of pizzas with their details. It showcases key features of React, such as components, props, and state management, allowing users to view pizzas and their descriptions.
 
